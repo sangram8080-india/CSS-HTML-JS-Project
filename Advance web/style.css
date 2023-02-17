@@ -1,0 +1,53 @@
+html,body{
+     height: 100vh;
+     width: 100vw;
+     background-image: url('image/back2.jpg');
+     background-color: rgba(0, 0, 0, 0.37);
+     background-position: 0% 100%;
+     background-size: cover;
+     position: relative;
+     border: solid #000 20px;
+     border-left: none;
+     border-right: none;
+     border-top: none;
+     box-shadow: 10px 10px  10px rgba(0, 0, 0, 0.37),10px 15px  10px rgba(26, 50, 16, 0.37);
+     background-repeat: no-repeat;
+
+}
+body::before{
+    background-color: rgba(10, 0, 7, 0.37);
+    content: '';
+    display: block;
+    height: 100%;
+    position: absolute;
+    width: 100%;
+  }
+  *{
+    font-family: berlin SansFB;
+    padding: 0%;
+    margin: 0%;
+  }
+
+  .nav-link,.navbar-brand{
+    color: white !important;
+
+  }
+  .navbar-brand{
+    font-size: 3vw;
+  }
+
+  .content{
+    margin-top: 150px;
+    margin-bottom: 120px;
+  }
+
+  .parallerx{
+    background-image: url('./image/banner2.jpg');
+    height: 30vw;
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+
+
+    
+  }
