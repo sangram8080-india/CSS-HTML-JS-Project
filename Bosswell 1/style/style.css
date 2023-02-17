@@ -1,0 +1,170 @@
+body{
+    margin:0 auto;
+	width:100%;
+	background:#f5f1e6;
+}
+.header{
+	margin:auto;
+	width:80%;
+	background:;
+	height:150;	
+}
+.left{
+	background:;
+	height:150;
+	width:50%;
+	float:left;
+}
+.left h1{
+	color:#fac011; 
+	font-size:40;
+	margin-left:50; 
+	padding:25;"
+}
+.left p{
+	color:#959595;
+	font-size:25;
+	margin-left:130; 
+	padding:25;"
+	float:right;
+	margin-top:-20%;
+}
+.left h5{
+	color:#959595;
+	margin-left:130; 
+	padding:25;"
+	float:right;
+	margin-top:-18%;
+}
+
+.right{
+	background:;
+	height:150;
+	width:50%;
+	float:right;
+}
+.menu{
+	background:;
+	height:40;
+	width:100%;
+	margin-top:57;
+}
+.menu a{
+	color:black;
+	text-decoration:none;
+   	float:left;
+	padding:11.1 20;
+}
+.menu a:hover{
+	color:#fff;
+    background:#fed14a;
+}
+.tamp{
+	background:white;
+	height:1000;
+	width:100%;
+	float:left;
+}
+.tamplate{
+	background:;
+	height:1000;
+	width:67%;
+	float:left;
+}
+.tamplate p{
+	margin-left:35;
+	font-size:22;
+}
+.tamplate img{
+	margin-left:35;
+	border:2px #ccc;
+    margin-top:8;
+	width:95%;
+	margin-top:12;
+}
+.side{
+	background:;
+	height:1000;
+	width:28%;
+	float:right;
+}
+.side p{
+	font-size:22;
+	margin-top:74;
+	margin-left:20;
+}
+.bar ul{
+	list-style:none;
+	margin-left:-17;
+}
+.bar ul li{
+	padding-top:4;
+}
+.bar ul li a{
+   text-decoration:none;
+   color:black;
+}
+.p1{
+	margin-top:30;
+	font-size:27;
+}
+.lorem{
+	background:white;
+	height:300;
+	width:100%;
+	float:left;
+	margin-top:-9;
+}
+.gal{
+	background:;
+	width:28%;
+	height:300;
+	float:left;
+	margin-left:35;	
+}
+.gal img{
+	 padding:8 6 3 0;
+	
+}
+.ipsum{
+	background:;
+	width:28%;
+	height:300;
+	float:left;
+	margin-left:50px;
+}
+.contact{
+	background:;
+	width:28%;
+	height:300;
+	float:right;
+	margin-right:35;
+}
+.support{
+	background:white;
+	height:670;
+	width:100%;
+	float:left;
+}
+.about{
+	background:white;
+	height:1300;
+	width:100%;
+	float:left;
+}
+.user{
+	background:;
+	height:430;
+	width:100%;
+	float:left;
+}
+.user img{
+	height:40;
+	width:40;
+}
+.Name{
+	background:white;
+	height:700;
+	width:100%;
+	float:left;
+}
